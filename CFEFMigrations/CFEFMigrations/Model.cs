@@ -13,5 +13,6 @@ namespace CFEFMigrations
     {
         public int BlogId { get; set; }
         public string Name { get; set; }
+        public string url { get; set; }
     }
 }
