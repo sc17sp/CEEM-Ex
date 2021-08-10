@@ -1,0 +1,15 @@
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\CFEFMigrations.exe.config
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\CFEFMigrations.exe
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\CFEFMigrations.pdb
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\EntityFramework.dll
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\EntityFramework.xml
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.csproj.AssemblyReference.cache
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.csproj.CoreCompileInputs.cache
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.csproj.CopyComplete
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.exe
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.pdb
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.Migrations.InitialCreate.resources
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.csproj.GenerateResource.cache
+C:\Users\sean.parker\Documents\Training\EFMigrationEx\CFEFMigrations\CFEFMigrations\obj\Debug\CFEFMigrations.Migrations.AddBlogUrl.resources
